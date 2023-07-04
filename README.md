@@ -59,8 +59,35 @@ with no players turns and 3 seconds between each peice moves.
 
 ## Authors
 
-- [@aliaa gheis](https://github.com/aliaagheisX)
-- [@sara bisheer](https://github.com/SH8664)
-- [@mennatallah ahmed](https://github.com/Menna-Ahmed7)
-- [@menna mohamed](https://github.com/mennamohamed0207)
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/aliaagheisX" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/35627349?v=4" width="150px;" alt="Aliaa Gheis"/>
+    <br />
+    <sub><b>Aliaa Gheis</b></sub></a>
+    </td>
+        <td align="center">
+    <a href="https://github.com/mennamohamed0207" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/90017398?v=4" width="150px;" alt="Menna Mohamed"/>
+    <br />
+    <sub><b>Menna Mohamed</b></sub></a>
+    </td>
+    <td align="center">
+    <td align="center">
+    <a href="https://github.com/Menna-Ahmed7" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/110634473?v=4" width="150px;" alt="Mennatallah Ahmed"/>
+    <br />
+    <sub><b>Mennatallah Ahmed</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/SH8664" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/113303945?v=4" width="150px;" alt="Sara Bisheer"/>
+    <br />
+    <sub><b>Sara Bisheer</b></sub></a>
+    </td>
+    
+    
+  </tr>
+ </table>
 
